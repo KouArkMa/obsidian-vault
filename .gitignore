@@ -1,0 +1,7 @@
+# Obsidian固有のワークスペース設定（タブの開き方などはOSごとに保持したほうが安全）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
